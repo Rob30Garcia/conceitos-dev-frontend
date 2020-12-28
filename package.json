@@ -1,0 +1,22 @@
+{
+  "name": "conceitos-dev-frontend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Rob30Garcia/conceitos-dev-frontend.git",
+  "author": "Robert <rgs2@icomp.ufam.edu.br>",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/cli": "^7.12.10",
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "@babel/preset-react": "^7.12.10",
+    "babel-loader": "^8.2.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "webpack": "^5.11.1",
+    "webpack-cli": "3.3.12"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^3.11.0"
+  }
+}
