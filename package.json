@@ -5,6 +5,9 @@
   "repository": "git@github.com:Rob30Garcia/conceitos-dev-frontend.git",
   "author": "Robert <rgs2@icomp.ufam.edu.br>",
   "license": "MIT",
+  "scripts": {
+    "dev": "webpack-dev-server --mode development"
+  },
   "dependencies": {
     "@babel/cli": "^7.12.10",
     "@babel/core": "^7.12.10",
